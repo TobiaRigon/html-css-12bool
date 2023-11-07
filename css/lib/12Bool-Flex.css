@@ -428,3 +428,15 @@
     }
 
 }
+
+/*   MQ LG 1160-* */
+
+@media all and ( min-width:1160px){
+    /* regole griglia */
+
+    .container{
+        max-width:80% ;
+    }
+
+   
+}
